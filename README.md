@@ -1,5 +1,5 @@
 <h1 align="center">Salut 🥖<br>I'm Yohan</h1>
-<h4 align="center">Passionate software developer and fan of nord-themed design, who loves walking and mountains.</h4>
+<h4 align="center">Passionate software developer and fan of horizon-themed designs, who loves walking, photography and mountains.</h4>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
